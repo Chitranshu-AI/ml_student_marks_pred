@@ -1,0 +1,15 @@
+1. linear regression model:
+	Mean: 6.166982883035766
+	Standard deviation: 0.6408011556746425
+
+2. decision tree model:
+	Mean:  9.119431212515206
+	Standard deviation:  0.8628357091799201	
+
+3. Random Forest Regression:
+	Mean:  6.302324509148157
+	Standard deviation:  0.6231707629900136
+
+
+
+so the linear regression model has the least mean so it is the best algorithm for our model.

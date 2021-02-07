@@ -1,3 +1,7 @@
+these are the admission number wise data which helped to scrape data from website
+
+
+
 [['5019.pdf' '5228.pdf' '5229.pdf' '5241.pdf' '5252.pdf' '5254.pdf'
   '5255.pdf' '5261.pdf' '5279.pdf' '5292.pdf']
  ['5546.pdf' '5598.pdf' '5606.pdf' '5642.pdf' '5651.pdf' '5774.pdf'
